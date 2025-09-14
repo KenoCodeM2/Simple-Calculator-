@@ -1,1 +1,1 @@
-# Simple-Calculator-
+This project is a simple calculator that can do 5 functions.
